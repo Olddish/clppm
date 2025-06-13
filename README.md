@@ -1,0 +1,1 @@
+This code repository accompanies our submitted paper titled "_Information Fusion Strategy Integrating Pre-trained Language Model and Contrastive Learning for Materials Knowledge Mining_", Any utilization of this code or methodology must include proper attribution to our work.
