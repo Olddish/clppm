@@ -1,1 +1,1 @@
-When you want to use our contrastive learning model, please first run contrastive_learning_v2.py to perform contrastive learning training and obtain the weights, so that you can use the contrastive learning model for predicting the Elongation of alloys.
+When you want to use our contrastive learning model, please first run "contrastive_learning_model_v2.py" to perform contrastive learning training and obtain the weights, so that you can use the contrastive learning model ("pre_elo.py") for predicting the Elongation of alloys.
